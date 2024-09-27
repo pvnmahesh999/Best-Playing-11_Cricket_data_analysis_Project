@@ -23,6 +23,15 @@ Scrapped all the data regarding match and world cup from www.espncricinfo.com an
 ## Data Collection:
 Scrapped all the data regarding match and world cup and all details about players career from [brightdata](https://brightdata.com/) using Beautiful Soup library and Jupyter Notebook is used to convert the json files into the dataframes and then these dataframes into csv file for further data analysis on power bi.
 
+ | Data Collector Tool |
+ | --------------- |
+ ![dc](dc.png)
+
+  | ESPN Cricket Sample Data |
+ | --------------- |
+ ![espn](espn.png)
+
+
 ## Data Transformation:
 Performed initial data cleaning after scrapping such as duplicates, player name correction, handle missing value, match id linking etc. using Pandas and json. Transformed the final data for dashboard using Power Query of Power BI.
 
@@ -119,23 +128,20 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 2.Python
 
-3.Pandas
+3.Pandas/Json
 
 4.Webscraping
 
-5.Beautifual Soup
+5.Power Query Editor
 
-6.Power Query Editor
+6.Power BI
 
-7.Power BI
+7.JavaScript
 
-8.Anaconda Envirement
 
 ## References
 
 https://codebasics.io/courses
-
-https://2022.t20worldcup.com/
 
 https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament
 
