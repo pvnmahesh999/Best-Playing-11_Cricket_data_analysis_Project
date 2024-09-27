@@ -24,10 +24,12 @@ Scrapped all the data regarding match and world cup from www.espncricinfo.com an
 Scrapped all the data regarding match and world cup and all details about players career from [brightdata](https://brightdata.com/) using Beautiful Soup library and Jupyter Notebook is used to convert the json files into the dataframes and then these dataframes into csv file for further data analysis on power bi.
 
 ## Data Transformation:
-Performed initial data cleaning after scrapping such as player name correction, handle missing value, match id linking etc. using Pandas. Transformed the final data for dashboard using Power Query of Power BI.
+Performed initial data cleaning after scrapping such as duplicates, player name correction, handle missing value, match id linking etc. using Pandas and json. Transformed the final data for dashboard using Power Query of Power BI.
 
 ## Data Modelling:
 Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dash boarding using DAX.
+
+![DM](dm.png)
 
 ## Data Analysis Expression (DAX)
 Measures used in visualization are:
