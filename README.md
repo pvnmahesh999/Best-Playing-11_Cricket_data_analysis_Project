@@ -94,32 +94,32 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 |    Openers      |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](https://user-images.githubusercontent.com/118357991/226159999-bc423241-a835-49c6-bbaf-4810089bbe44.png)|
+|![openers](o.png)|
 
 
  | Middle Order |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](https://user-images.githubusercontent.com/118357991/226160125-3183adf0-8155-4060-b47f-083f24771fa3.png)|
+|![middle](m.png)|
 
 
  | Finisher |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](https://user-images.githubusercontent.com/118357991/226160218-37527b00-f0da-4365-8a7b-fadff816d621.png)|
+|![Finshers](f.png)|
 
 
 | All Rounder |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](https://user-images.githubusercontent.com/118357991/226160322-29a2dac1-928f-4533-8ffb-3f1d4968d8cd.png)|
+|![All Rounders](a.png)|
 
 
 | Specilist Fast Bolwers |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](https://user-images.githubusercontent.com/118357991/226160372-cdb65794-d49f-4aa8-b884-8f1bd6bd97e0.png)|
+|![bowlers](b.png)|
 
 
 | Final Best 11 Players |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](https://user-images.githubusercontent.com/118357991/226160404-653cf126-519c-426f-b715-a5041535e8d7.png)|
+|![11](11.png)|
 
 
 ## Tools, Software and Libraries :
