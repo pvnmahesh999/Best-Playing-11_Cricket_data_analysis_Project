@@ -29,7 +29,7 @@ Performed initial data cleaning after scrapping such as duplicates, player name 
 ## Data Modelling:
 Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dash boarding using DAX.
 
-![DM](dm.png)
+![DM](dm.PNG)
 
 ## Data Analysis Expression (DAX)
 Measures used in visualization are:
